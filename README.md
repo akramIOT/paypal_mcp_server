@@ -1,4 +1,8 @@
-# PayPal MCP Server
+# Un-Official PayPal MCP Server
+
+
+![PayPal MCP Server](https://github.com/user-attachments/assets/066c1b04-4dfc-41e7-a145-f1764a106dd4)
+
 
 A Python implementation of a Model Context Protocol (MCP) server for PayPal API integrations. This server enables Large Language Models (LLMs) to interact with PayPal's APIs through function calling.
 
